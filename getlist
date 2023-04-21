@@ -1,16 +1,27 @@
 [
   {
-    "id": 1,
-    "p1": "a",
-    "p2": "b",
-    "p3": "c",
-    "p4": "d"
+    "catId": 1,
+    "name": "Mùa xuân 1",
+    "image": "muaxuan.png"
   },
   {
-    "id": 2,
-    "p1": "a",
-    "p2": "b",
-    "p3": "c",
-    "p4": "d"
+    "catId": 2,
+    "name": "Mùa hạ 1",
+    "image": "muaha.png"
+  },
+  {
+    "catId": 3,
+    "name": "Mùa thu",
+    "image": "muathu.png"
+  },
+  {
+    "catId": 4,
+    "name": "Mùa đông",
+    "image": "muadong.png"
+  },
+  {
+    "catId": 5,
+    "name": "Mùa thi 3/6/23 13g",
+    "image": "muathi.png"
   }
 ]
